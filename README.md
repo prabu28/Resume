@@ -124,7 +124,7 @@ Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC
 - Good insights **vmware DRS scheduler** and **Storage Vmotion**
 - Worked on **Veritas cluster** and configured it .
 
-- _ **Platforms AIX &amp; LINUX** _
+- _ **Platforms AIX &amp; LINUX &amp; WINDOWS** _
 
 - **AIX** &amp; **LINUX** OS **installation** , **configuration**** , Migration **,** upgrades** using appropriate methods.
 - **Managing LVM** , Creating and removing the **Volume Group** , **Logical volume** , **File systems** and disk mirroring on both **AIX &amp; LINUX**
@@ -166,5 +166,3 @@ Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC
 | Martial Status | Married |
 
 **Place: Hyderabad.**
-
-Page 4 of 4
