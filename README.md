@@ -11,8 +11,8 @@
 - **6 + years experience in scripting and automation**.
 - **Developed** VM builds autoamtion Solution (**Deployanywhere**) which is an __alternative)__ for __vRa__. 
 - **Developed** BuildGate REST API for my protifolio for which hosts all the autoamtions of all our teams . 
-- **Developed HCX Automations with complete REST APIs**
-- **
+- **Developed** __HCX Automations__ with complete REST APIs in **vRO**
+- **Developed** Zero Touch Provision (ZTP) __Physical build automation__ for Dell adn HP Hardware. 
 - **Working in Agile environment**.
 - **Developed cookbooks for AIX ,LINUX &amp; WINDOWS**
 - **Developing / Mentoring Inspec QA platform standard profiles for LINUX and AIX WINDOWS as optum standard baseline .**
@@ -28,12 +28,12 @@
 
 | **Operating System** | IBM AIX (5.3,6.1,7.1,7.2),VIO server, RHEL 5/6/7 ,CENTOS, Windows 2008/12/16/19 . |
 | --- | --- |
-| **Hardware** | HP Prolaint , Quantum Servers , IBM pSeries p4 ,p5, p6, p7, p8 , x86, HMC |
+| **Hardware** | HP Prolaint , Dell idrac , Quantum Servers , IBM pSeries p4 ,p5, p6, p7, p8, p9, x86, HMC |
 | **DevOps –Tools** | **GIT, CHEF , chefdk , test kitchen , knife , Virtualbox , Ansible, VMware suite 6/7 , VMware Vcenter Vagrant. Openstack , Jenkins CICD , AWS sysops administration , Docker containers .** HP monitoring , Nagios , splunk |
 | **Technologies** | **VMWare vsphere , VMware vCenter , VMware VRA/VRO** , **ORCHESTRATION** , LPAR ,VIO SERVER,NIM,DLPAR, HACMP Cluster, NIM,DLPAR. HACMP 5.3, power HA. Cloud computing ,powervc , **Devops –culture** |
 | **Languages/Scripts/Frameworks** | **Python** ,**Python RESTFull Web Services**,**PowerShell Scripting**, **Shell Scripting** , **DSL – chef** , **Ispec DSL** , **Ruby**, Basics in ( **C** ,JSE,J2EE) |
 | **Networking** | SCP, FTP, NIM, NFS . Networks and subnets, IP address, VPN, DNS, Firewall, IP tables, Network access between applications (ACL) , **Networking in cloud (i.e., Amazon AWS).** |
-| **Web &amp; App Servers** | IBM WebSphere App Server, Apache Tomcat |
+| **Web &amp; App Servers** | IBM WebSphere App Server, Apache Tomcat,gununicorn |
 | **Logging & Analytics** | EFK Stack, kibana painless Scripted fields|
 
 **Career Profile:**
