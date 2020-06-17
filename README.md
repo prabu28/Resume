@@ -1,10 +1,9 @@
 
 # IAC Consultant
 
-**Kanakamedala Lakshmi Prabhu**                       __Email:__[prabhukanakamedala@gmail.com](mailto:prabhukanakamedala@gmail.com) 
-                                                      __Phone:__ +91-9966431963.
-
-
+**Kanakamedala Lakshmi Prabhu**     
+__Email:__[prabhukanakamedala@gmail.com](mailto:prabhukanakamedala@gmail.com) 
+__Phone:__ +91-9966431963.
 
 ## Experience Summary:
 
@@ -39,7 +38,7 @@
 
 ## Career Profile:
 
-**Currently working for UnitedHealth Group (Optum), from July 15th 2015 to till date**
+### **Currently working for UnitedHealth Group (Optum), from July 15th 2015 to till date**
 
 **Designation :** Sr. IT Operating Sys Analyst.
 
@@ -49,7 +48,7 @@
 
 Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC to DC migrations , working on regular PLM activities, OS upgrades , new builds , incidents , changes , performing QA check outs ..etc_._
 
-**Worked for HTC Global services ,( client - UnitedHealth Group) from Feb, 2014 –July 3rd , 2015**
+### **Worked for HTC Global services ,( client - UnitedHealth Group) from Feb, 2014 –July 3rd , 2015**
 
 **Designation :** Sr AIX Administrator.
 
@@ -57,7 +56,7 @@ Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC
 
 **Description :** Migrating AIX lPARS from one DC to another DC , upgrading P5 to P7, P8 working on build incidents, QA check for new builds etc.
 
-**worked for Technosoft Solutions Pvt Ltd. from Aug 2009 – Feb 2014 .**
+### **worked for Technosoft Solutions Pvt Ltd. from Aug 2009 – Feb 2014 .**
 
 **Designation :** Systems Engineer
 
