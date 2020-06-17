@@ -1,11 +1,11 @@
 
-**IAC Consultant**
+## IAC Consultant
 
 **Kanakamedala Lakshmi Prabhu**. Email:[prabhukanakamedala@gmail.com](mailto:prabhukanakamedala@gmail.com)
 
 **Phone: +91-9966431963.**
 
-**Experience Summary:**
+### Experience Summary:
 
 - 10+ years of IT experience in System administration with **scripting** expertise on AIX and LINUX
 - **6 + years experience in scripting and automation**.
@@ -24,7 +24,7 @@
 - Installation of **patches, security fixes, e-fixes, TL&#39;s, packages on AIX, LINUX ,WINDWOS**
 - Provided 24X7 production support.
 
-**Competencies &amp; Skills:**
+### Competencies &amp; Skills:
 
 | **Operating System** | IBM AIX (5.3,6.1,7.1,7.2),VIO server, RHEL 5/6/7 ,CENTOS, Windows 2008/12/16/19 . |
 | --- | --- |
@@ -36,7 +36,7 @@
 | **Web &amp; App Servers** | IBM WebSphere App Server, Apache Tomcat,gununicorn |
 | **Logging & Analytics** | EFK Stack, kibana painless Scripted fields|
 
-**Career Profile:**
+## Career Profile:
 
 **Currently working for UnitedHealth Group (Optum), from July 15th 2015 to till date**
 
@@ -64,9 +64,9 @@ Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC
 
 **Description :** worked as UNIX admin for domestic pharmaceutical company , I was involved in all kind of administration and maintenance activities of UNIX servers .
 
-**Skills:**
+## Skills:
 
-__DevOps__
+### __DevOps__
 
 - I m the **only one from offshore** to attend all the **vendor led chef trainings , Chef Intermediate &amp; TDI**.
 - **I have learned the CHEF frame work all by self and have also implemented on power infrastructure for the first time in UHG environment in a big way with Jenkins CICD pipeline automating the kitchen stages . have registered my idea for Bright idea drive and Enterprise Technology challenge aswell and received appreciation and recognition for my work and initiate.**
@@ -92,7 +92,7 @@ __DevOps__
 - **Trained** on **AWS** Sysops **administration**.
 - **My Chef works here** [**https://github.optum.com/pkanakam**](https://github.optum.com/pkanakam) **,** [**https://github.optum.com/linux-cookbook/dmcrypt**](https://github.optum.com/linux-cookbook/dmcrypt) **,** [**https://github.com/chefpractice/preconfjenkins**](https://github.com/chefpractice/preconfjenkins) **(Currently working )**
 
-## Virtualization
+###  Virtualization
 
 - All the basic **docke** r container **operations**.
 - **Creating docker containers** from **dockerfile** and uploading to **registry**
@@ -107,7 +107,7 @@ __DevOps__
 - Making changes in partition profile, after DLAR operation.
 - Mapping the **LUNS** from VIO to the client LPARS, through **NPIV and VSCSI**
 
-## Management Consoles
+### Management Consoles
 
 - Creating and managing LPAR s and managing their profiles using HMC.
 - Accessing **LAPR Consoles** via web interface and command line .
@@ -118,7 +118,7 @@ __DevOps__
 - To add modify **storage , compute resources** to **LINUX VMS** and do on VMWare Vcenter .
 - Managing **templates** and **clones** , spawning VMs from templates or cloning
 
-## Clusters
+### Clusters
 
 - Installed and **configured Mesos DCOS cluster** in a lab environment and ran few **docker jobs** on it
 - Installation &amp; configuration of **Power HA Cluster**.
@@ -132,7 +132,7 @@ __DevOps__
 - Good insights **vmware DRS scheduler** and **Storage Vmotion**
 - Worked on **Veritas cluster** and configured it .
 
-## Platforms AIX &amp; LINUX &amp; WINDOWS
+### Platforms AIX &amp; LINUX &amp; WINDOWS
 
 - **AIX** &amp; **LINUX** OS **installation** , **configuration**** , Migration **,** upgrades** using appropriate methods.
 - **Managing LVM** , Creating and removing the **Volume Group** , **Logical volume** , **File systems** and disk mirroring on both **AIX &amp; LINUX**
