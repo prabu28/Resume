@@ -17,7 +17,7 @@
 - **Developed cookbooks for AIX ,LINUX &amp; WINDOWS**
 - **Developing / Mentoring Inspec QA platform standard profiles for LINUX and AIX WINDOWS as optum standard baseline .**
 - **Configured test kitchen infra** to work with **Jenkins CICD pipeline** to connect with PowerVC and **to test the developed aixbuild cookbooks**
-- Provided 6 hrs of **LIVE**** chef DSL training **in my environment for** 30 + participants**
+- Provided 6 hrs of **LIVE** chef DSL training **in my environment for** 30 + participants.
 - **Provided 30 hrs + hands on IAC Developer trainings to the team which includes CHEF,INSPEC,GIT,TERRAFORM , this is the first in house training in the org of this sought**
 - Migrated over 200 LPARS from frame to frame.
 - Experienced in **installation, configuration, administration, troubleshooting** , tuning, security, backup and recovery and upgrades of **IBM AIX &amp; LINUX** , **WINDOWS**
@@ -44,7 +44,7 @@
 
 **Role :** UNIX Build and Migrations.
 
-**Description : Scripting and automating for the team needs . creating maintain and administering power lab infrastructure , experimenting new technologies, adopting and implantation ,Developing / Mentoring team in developing IAC code (Inspec profiles , Cookbooks ) for the needs of the organisation . Developing AIX shell scripts to cookbooks to adopt to the rapidly growing devops culture .**
+**Description :** Scripting and automating for the team needs . creating maintain and administering power lab infrastructure , experimenting new technologies, adopting and implantation ,Developing / Mentoring team in developing IAC code (Inspec profiles , Cookbooks ) for the needs of the organisation . Developing AIX shell scripts to cookbooks to adopt to the rapidly growing devops culture .
 
 Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC to DC migrations , working on regular PLM activities, OS upgrades , new builds , incidents , changes , performing QA check outs ..etc_._
 
@@ -66,7 +66,7 @@ Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC
 
 **Skills:**
 
-- _ **DevOps** _
+__DevOps__
 
 - I m the **only one from offshore** to attend all the **vendor led chef trainings , Chef Intermediate &amp; TDI**.
 - **I have learned the CHEF frame work all by self and have also implemented on power infrastructure for the first time in UHG environment in a big way with Jenkins CICD pipeline automating the kitchen stages . have registered my idea for Bright idea drive and Enterprise Technology challenge aswell and received appreciation and recognition for my work and initiate.**
@@ -92,7 +92,7 @@ Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC
 - **Trained** on **AWS** Sysops **administration**.
 - **My Chef works here** [**https://github.optum.com/pkanakam**](https://github.optum.com/pkanakam) **,** [**https://github.optum.com/linux-cookbook/dmcrypt**](https://github.optum.com/linux-cookbook/dmcrypt) **,** [**https://github.com/chefpractice/preconfjenkins**](https://github.com/chefpractice/preconfjenkins) **(Currently working )**
 
-- _ **Virtualization** _
+## Virtualization
 
 - All the basic **docke** r container **operations**.
 - **Creating docker containers** from **dockerfile** and uploading to **registry**
@@ -107,7 +107,7 @@ Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC
 - Making changes in partition profile, after DLAR operation.
 - Mapping the **LUNS** from VIO to the client LPARS, through **NPIV and VSCSI**
 
-- _ **Management Consoles** _
+## Management Consoles
 
 - Creating and managing LPAR s and managing their profiles using HMC.
 - Accessing **LAPR Consoles** via web interface and command line .
@@ -118,7 +118,7 @@ Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC
 - To add modify **storage , compute resources** to **LINUX VMS** and do on VMWare Vcenter .
 - Managing **templates** and **clones** , spawning VMs from templates or cloning
 
-- _ **Clusters** _
+## Clusters
 
 - Installed and **configured Mesos DCOS cluster** in a lab environment and ran few **docker jobs** on it
 - Installation &amp; configuration of **Power HA Cluster**.
@@ -132,7 +132,7 @@ Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC
 - Good insights **vmware DRS scheduler** and **Storage Vmotion**
 - Worked on **Veritas cluster** and configured it .
 
-- _ **Platforms AIX &amp; LINUX &amp; WINDOWS** _
+## Platforms AIX &amp; LINUX &amp; WINDOWS
 
 - **AIX** &amp; **LINUX** OS **installation** , **configuration**** , Migration **,** upgrades** using appropriate methods.
 - **Managing LVM** , Creating and removing the **Volume Group** , **Logical volume** , **File systems** and disk mirroring on both **AIX &amp; LINUX**
@@ -159,18 +159,18 @@ Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC
 - Taking the rootvg backup, and managing the **alternative disks** while doing changes in software..
 - Logging call to IBM for resolving hardware and software issues.
 
-**Education :**
+## Education :
 
 - M-Tech from Gitam University (2011-13).
 - B-Tech from Avanthi Institute of Engineering and Technology(2005-09).
 - Intermediete from Santha Junior College (2003-05).
 - SSC from Maris Stella School(2003).
 
-**Personal Details:**
+## Personal Details:
 
 | Date of Birth | 19-Oct-1986 |
 | --- | --- |
 | Nationality | Indian |
 | Martial Status | Married |
 
-**Place: Hyderabad.**
+## Place: Hyderabad.
