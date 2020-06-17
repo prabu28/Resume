@@ -1,9 +1,10 @@
 
 # IAC Consultant
 
-**Kanakamedala Lakshmi Prabhu**. Email:[prabhukanakamedala@gmail.com](mailto:prabhukanakamedala@gmail.com)
+**Kanakamedala Lakshmi Prabhu**. 
+- __Email:__[prabhukanakamedala@gmail.com](mailto:prabhukanakamedala@gmail.com)
 
-**Phone: +91-9966431963.**
+- __Phone:__ +91-9966431963.
 
 ## Experience Summary:
 
