@@ -1,11 +1,18 @@
+
+**IAC Consultant**
+
 **Kanakamedala Lakshmi Prabhu**. Email:[prabhukanakamedala@gmail.com](mailto:prabhukanakamedala@gmail.com)
 
-UNIX – IAC Developer - Role Phone: +91-9966431963.
+**Phone: +91-9966431963.**
 
 **Experience Summary:**
 
 - 10+ years of IT experience in System administration with **scripting** expertise on AIX and LINUX
 - **6 + years experience in scripting and automation**.
+- **Developed** VM builds autoamtion Solution (**Deployanywhere**) which is an __alternative)__ for __vRa__. 
+- **Developed** BuildGate REST API for my protifolio for which hosts all the autoamtions of all our teams . 
+- **Developed HCX Automations with complete REST APIs**
+- **
 - **Working in Agile environment**.
 - **Developed cookbooks for AIX ,LINUX &amp; WINDOWS**
 - **Developing / Mentoring Inspec QA platform standard profiles for LINUX and AIX WINDOWS as optum standard baseline .**
