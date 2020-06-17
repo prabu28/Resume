@@ -1,11 +1,11 @@
 
-## IAC Consultant
+# IAC Consultant
 
 **Kanakamedala Lakshmi Prabhu**. Email:[prabhukanakamedala@gmail.com](mailto:prabhukanakamedala@gmail.com)
 
 **Phone: +91-9966431963.**
 
-### Experience Summary:
+## Experience Summary:
 
 - 10+ years of IT experience in System administration with **scripting** expertise on AIX and LINUX
 - **6 + years experience in scripting and automation**.
@@ -24,7 +24,7 @@
 - Installation of **patches, security fixes, e-fixes, TL&#39;s, packages on AIX, LINUX ,WINDWOS**
 - Provided 24X7 production support.
 
-### Competencies &amp; Skills:
+## Competencies &amp; Skills:
 
 | **Operating System** | IBM AIX (5.3,6.1,7.1,7.2),VIO server, RHEL 5/6/7 ,CENTOS, Windows 2008/12/16/19 . |
 | --- | --- |
