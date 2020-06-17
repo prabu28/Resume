@@ -4,8 +4,8 @@ UNIX – IAC Developer - Role Phone: +91-9966431963.
 
 **Experience Summary:**
 
-- 9+ years of IT experience in System administration with **scripting** expertise on AIX and LINUX
-- **4 + years experience in scripting and automation**.
+- 10+ years of IT experience in System administration with **scripting** expertise on AIX and LINUX
+- **6 + years experience in scripting and automation**.
 - **Working in Agile environment**.
 - **Developed cookbooks for AIX ,LINUX &amp; WINDOWS**
 - **Developing / Mentoring Inspec QA platform standard profiles for LINUX and AIX WINDOWS as optum standard baseline .**
@@ -19,7 +19,7 @@ UNIX – IAC Developer - Role Phone: +91-9966431963.
 
 **Competencies &amp; Skills:**
 
-| **Operating System** | IBM AIX (5.3,6.1,7.1),VIO server, RHEL 5/6/7 ,CENTOS, Windows 2008/12 . |
+| **Operating System** | IBM AIX (5.3,6.1,7.1,7.2),VIO server, RHEL 5/6/7 ,CENTOS, Windows 2008/12/16/19 . |
 | --- | --- |
 | **Hardware** | HP Prolaint , Quantum Servers , IBM pSeries p4 ,p5, p6, p7, p8 , x86, HMC |
 | **DevOps –Tools** | **GIT, CHEF , chefdk , test kitchen , knife , Virtualbox , Ansible, VMware suite 6 , VMware Vcenter Vagrant. Openstack , Jenkins CICD , AWS sysops administration , Docker containers .** HP monitoring , Nagios , splunk |
