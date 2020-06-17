@@ -38,31 +38,31 @@ __Phone:__ +91-9966431963.
 
 ## Career Profile:
 
-### **Currently working for UnitedHealth Group (Optum), from July 15th 2015 to till date**
+### **Currently working for UnitedHealth Group (Optum), from July 15th 2015 to till date**   
 
-  **Designation :** Sr. IT Operating Sys Analyst.
+   **Designation :** Sr. IT Operating Sys Analyst.   
 
-  **Role :** UNIX Build and Migrations.
+   **Role :** UNIX Build and Migrations.    
 
-  **Description :** Scripting and automating for the team needs . creating maintain and administering power lab infrastructure , experimenting new technologies, adopting and implantation ,Developing / Mentoring team in developing IAC code (Inspec profiles , Cookbooks ) for the needs of the organisation . Developing AIX shell scripts to cookbooks to adopt to the rapidly growing devops culture .
+   **Description :** Scripting and automating for the team needs . creating maintain and administering power lab infrastructure , experimenting new technologies, adopting and implantation ,Developing / Mentoring team in developing IAC code (Inspec profiles , Cookbooks ) for the needs of the organisation . Developing AIX shell scripts to cookbooks to adopt to the rapidly growing devops culture .
 
 Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC to DC migrations , working on regular PLM activities, OS upgrades , new builds , incidents , changes , performing QA check outs ..etc_._
 
 ### **Worked for HTC Global services ,( client - UnitedHealth Group) from Feb, 2014 –July 3rd , 2015**
 
-  **Designation :** Sr AIX Administrator.
+   **Designation :** Sr AIX Administrator.
 
-  **Role :** Build and Migrations.
+   **Role :** Build and Migrations.
 
-  **Description :** Migrating AIX lPARS from one DC to another DC , upgrading P5 to P7, P8 working on build incidents, QA check for new builds etc.
+   **Description :** Migrating AIX lPARS from one DC to another DC , upgrading P5 to P7, P8 working on build incidents, QA check for new builds etc.
 
 ### **worked for Technosoft Solutions Pvt Ltd. from Aug 2009 – Feb 2014 .**
 
-  **Designation :** Systems Engineer
+   **Designation :** Systems Engineer
 
-  **Role :** Administrator (L2 Support).
+   **Role :** Administrator (L2 Support).
 
-  **Description :** worked as UNIX admin for domestic pharmaceutical company , I was involved in all kind of administration and maintenance activities of UNIX servers .
+   **Description :** worked as UNIX admin for domestic pharmaceutical company , I was involved in all kind of administration and maintenance activities of UNIX servers .
 
 ## Skills:
 
