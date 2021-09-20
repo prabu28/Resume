@@ -31,10 +31,10 @@ __Phone:__ +91-9966431963.
 | --- | --- |
 | **Hardware** | HP Prolaint , Dell idrac , Quantum Servers , IBM pSeries |
 | **Virtualization** | VMWare, IBM Power, Dockers |
-| **DevOps –Tools** | GIT, GitHub, VS Code, Jenkins CICD, API development, CHEF, Test Kitchen, Knife, Inspec, BigFix, VirtualBox, Ansible (Basic), Vagrant, Docker, Dockerfile, Artifactory, EFK Stack (Elastic Fluentd Kibana), Terraform CLI, Kubernetes Basics, POSTMAN, Foreman |
+| **DevOps Tools** | GIT, GitHub, VS Code, Jenkins CICD, API development, CHEF, Test Kitchen, Knife, Inspec, BigFix, VirtualBox, Ansible (Basic), Vagrant, Docker, Dockerfile, Artifactory, EFK Stack (Elastic Fluentd Kibana), Terraform CLI, Kubernetes Basics, POSTMAN, Foreman |
 | **Technologies & Frameworks** | Python Flask, Jenkins, GraphQL, Ariadne, pyVmomi, vSphere REST APIs, HCX, HCX APIs, Docusaurus-V2, Mongo dB, VMWare vSphere, VMWare vCenter, VMWare HCX, VRA/VRO, ORCHESTRATION, LPAR, VIO, NIM, DLPAR, Power HA. |
-| **Languages & Scripting ** | Python, Shell Scripting, PowerShell, Power CLI, chef - DSL, Jenkins DSL, Inspec DSL, Ruby, JSON, YAML, Basics in C |
-| **Cloud** | **Azure 200, Azure 400 ** |
+| **Languages & Scripting** | Python, Shell Scripting, PowerShell, Power CLI, chef - DSL, Jenkins DSL, Inspec DSL, Ruby, JSON, YAML, Basics in C |
+| **Cloud** | Azure 200, Azure 400 |
 
 ## Career Profile:
 
@@ -63,7 +63,7 @@ __Phone:__ +91-9966431963.
 
    **Description :** worked as UNIX admin for domestic pharmaceutical company , I was involved in all kind of administration and maintenance activities of UNIX servers .
 
-## Skills:
+## Role Summary:
 
 ### __DevOps__
 
