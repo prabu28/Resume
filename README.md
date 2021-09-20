@@ -38,16 +38,15 @@ __Phone:__ +91-9966431963.
 
 ## Career Profile:
 
-### **Currently working for UnitedHealth Group (Optum), from July 15th 2015 to till date**   
+### **Currently working for Optum, from July 15th 2015 to till date**   
 
-   **Designation :** Sr. IT Operating Sys Analyst.   
+   **Designation :** Systems Management Consultant.   
 
-   **Role :** UNIX Build and Migrations.    
+   **Role :** Infrastructure Automations Designing and Development.    
 
-   **Description :** Scripting and automating for the team needs . creating maintain and administering power lab infrastructure , experimenting new technologies, adopting and implantation ,Developing / Mentoring team in developing IAC code (Inspec profiles , Cookbooks ) for the needs of the organisation . Developing AIX shell scripts to cookbooks to adopt to the rapidly growing devops culture .
-
-Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC to DC migrations , working on regular PLM activities, OS upgrades , new builds , incidents , changes , performing QA check outs ..etc_._
-
+   **Description :** Working in agile scrum team. Delivering scrum’s builds, maintenance and migration activities is primary responsibility.  Being a Consultant, Identifying the potential infrastructure automation scenarios and designing and developing the automations identified. Leading and mentoring virtual automation team’s automation initiatives and driving them to completion.  Interacts with the customers to gather requirements and designing appropriate solutions. Determining tech and languages to be used in the automation. Reviewing and approving pull requests.
+   
+  
 ### **Worked for HTC Global services ,( client - UnitedHealth Group) from Feb, 2014 –July 3rd , 2015**
 
    **Designation :** Sr AIX Administrator.
@@ -56,7 +55,7 @@ Migrating AIX LPARS and Linux VMs from old hosts to new hosts as part of PLM, DC
 
    **Description :** Migrating AIX lPARS from one DC to another DC , upgrading P5 to P7, P8 working on build incidents, QA check for new builds etc.
 
-### **worked for Technosoft Solutions Pvt Ltd. from Aug 2009 – Feb 2014 .**
+### **Worked for Technosoft Solutions Pvt Ltd. from Aug 2009 – Feb 2014 .**
 
    **Designation :** Systems Engineer
 
