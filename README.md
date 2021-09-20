@@ -1,9 +1,8 @@
 
-# IAC Consultant
+# Infrastructure Automation Consultant
 
-__Kanakamedala Lakshmi Prabhu__     
-__Email:__ [prabhukanakamedala@gmail.com](mailto:prabhukanakamedala@gmail.com)    
-__Phone:__ +91-9966431963.
+__Kanakamedala Lakshmi Prabhu__                                   __Email:__ [prabhukanakamedala@gmail.com](mailto:prabhukanakamedala@gmail.com)    
+__Systems Management Consulatant__                                __Phone:__ +91-9966431963.
 
 ## Experience Summary:
 
