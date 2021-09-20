@@ -27,13 +27,14 @@ __Phone:__ +91-9966431963.
 
 ## Competencies &amp; Skills:
 
-| **Operating System** | IBM AIX (5.3,6.1,7.1,7.2),VIO server, RHEL 5/6/7 ,CENTOS, Windows 2008/12/16/19 . |
+| **Operating System** | IBM AIX, VIO Server, RHEL, CENTOS, Windows Server |
 | --- | --- |
 | **Hardware** | HP Prolaint , Dell idrac , Quantum Servers , IBM pSeries |
-| **DevOps –Tools** | **GIT, CHEF , chefdk , test kitchen , knife , Virtualbox , Ansible, VMware suite 6/7 , VMware Vcenter Vagrant. Openstack , Jenkins CICD , AWS sysops administration , Docker containers .** HP monitoring , Nagios , splunk |
-| **Technologies & Frameworks** | **VMWare vsphere , VMware vCenter , VMware VRA/VRO** , **ORCHESTRATION** , LPAR ,VIO SERVER,NIM,DLPAR, HACMP Cluster, NIM,DLPAR. HACMP 5.3, power HA. Cloud computing ,powervc , **Devops –culture** |
-| **Languages & Scripting ** | **Python** ,**Python RESTFull Web Services**,**PowerShell Scripting**, **Shell Scripting** , **DSL – chef** , **Ispec DSL** , **Ruby**, Basics in ( **C** ,JSE,J2EE) |
-| **Cloud** | SCP, FTP, NIM, NFS . Networks and subnets, IP address, VPN, DNS, Firewall, IP tables, Network access between applications (ACL) , **Networking in cloud (i.e., Amazon AWS).** |
+| **Virtualization** | VMWare, IBM Power, Dockers |
+| **DevOps –Tools** | GIT, GitHub, VS Code, Jenkins CICD, API development, CHEF, Test Kitchen, Knife, Inspec, BigFix, VirtualBox, Ansible (Basic), Vagrant, Docker, Dockerfile, Artifactory, EFK Stack (Elastic Fluentd Kibana), Terraform CLI, Kubernetes Basics, POSTMAN, Foreman |
+| **Technologies & Frameworks** | Python Flask, Jenkins, GraphQL, Ariadne, pyVmomi, vSphere REST APIs, HCX, HCX APIs, Docusaurus-V2, Mongo dB, VMWare vSphere, VMWare vCenter, VMWare HCX, VRA/VRO, ORCHESTRATION, LPAR, VIO, NIM, DLPAR, Power HA. |
+| **Languages & Scripting ** | Python, Shell Scripting, PowerShell, Power CLI, chef - DSL, Jenkins DSL, Inspec DSL, Ruby, JSON, YAML, Basics in C |
+| **Cloud** | **Azure 200, Azure 400 ** |
 
 ## Career Profile:
 
