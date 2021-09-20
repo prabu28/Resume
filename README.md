@@ -29,13 +29,11 @@ __Phone:__ +91-9966431963.
 
 | **Operating System** | IBM AIX (5.3,6.1,7.1,7.2),VIO server, RHEL 5/6/7 ,CENTOS, Windows 2008/12/16/19 . |
 | --- | --- |
-| **Hardware** | HP Prolaint , Dell idrac , Quantum Servers , IBM pSeries p4 ,p5, p6, p7, p8, p9, x86, HMC |
+| **Hardware** | HP Prolaint , Dell idrac , Quantum Servers , IBM pSeries |
 | **DevOps –Tools** | **GIT, CHEF , chefdk , test kitchen , knife , Virtualbox , Ansible, VMware suite 6/7 , VMware Vcenter Vagrant. Openstack , Jenkins CICD , AWS sysops administration , Docker containers .** HP monitoring , Nagios , splunk |
-| **Technologies** | **VMWare vsphere , VMware vCenter , VMware VRA/VRO** , **ORCHESTRATION** , LPAR ,VIO SERVER,NIM,DLPAR, HACMP Cluster, NIM,DLPAR. HACMP 5.3, power HA. Cloud computing ,powervc , **Devops –culture** |
-| **Languages/Scripts/Frameworks** | **Python** ,**Python RESTFull Web Services**,**PowerShell Scripting**, **Shell Scripting** , **DSL – chef** , **Ispec DSL** , **Ruby**, Basics in ( **C** ,JSE,J2EE) |
-| **Networking** | SCP, FTP, NIM, NFS . Networks and subnets, IP address, VPN, DNS, Firewall, IP tables, Network access between applications (ACL) , **Networking in cloud (i.e., Amazon AWS).** |
-| **Web &amp; App Servers** | IBM WebSphere App Server, Apache Tomcat,gununicorn |
-| **Logging & Analytics** | EFK Stack, kibana painless Scripted fields|
+| **Technologies & Frameworks** | **VMWare vsphere , VMware vCenter , VMware VRA/VRO** , **ORCHESTRATION** , LPAR ,VIO SERVER,NIM,DLPAR, HACMP Cluster, NIM,DLPAR. HACMP 5.3, power HA. Cloud computing ,powervc , **Devops –culture** |
+| **Languages & Scripting ** | **Python** ,**Python RESTFull Web Services**,**PowerShell Scripting**, **Shell Scripting** , **DSL – chef** , **Ispec DSL** , **Ruby**, Basics in ( **C** ,JSE,J2EE) |
+| **Cloud** | SCP, FTP, NIM, NFS . Networks and subnets, IP address, VPN, DNS, Firewall, IP tables, Network access between applications (ACL) , **Networking in cloud (i.e., Amazon AWS).** |
 
 ## Career Profile:
 
